@@ -1,6 +1,3 @@
-<br />
-<br />
-<br />
 ![header](https://capsule-render.vercel.app/api?text=Hello%20Leejuhyeon&fontSize=40&color=E60027&fontColor=000000)
 * 👋 Hi, I’m Leejuhyeon
 * 💬 How to reach me qwe7105c@korea.ac.kr
