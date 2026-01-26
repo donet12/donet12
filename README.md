@@ -33,57 +33,37 @@
 
 ---
 
-##  Featured Projects
+## Projects
 
-### 이혈테라피 온라인 강의 플랫폼
-**Backend & Infra** | 2026.01 - 진행중
-
-이혈 테라피 전문 온라인 강의 플랫폼으로, Kollus 스트리밍 연동, Toss Payments 결제, S3 기반 과제 제출 등을 구현한 LMS 서비스
-
-- **Tech**: Spring Boot, PostgreSQL, Redis, Railway
-- **기여도**: 백엔드 및 인프라 전담 (백엔드 100%)
-- [🔗 프로젝트 상세](https://alabaster-smash-73a.notion.site/2f00b776e24080b4af62f507778a6b58?pvs=73)
-
-### 럭킷(LuckEat) - 최우수상 
-**Backend Developer** | 2025.02 - 2025.05
-
-제주도 내 마감 할인 음식 정보를 소비자에게 중개하는 지역 기반 플랫폼
-
-- **Tech**: Spring Boot, MariaDB, Redis, Docker, AWS
-- **기여도**: 예약 API, 동시성 제어, DB 이관, 캐시 최적화 담당 (백엔드 약 50%)
-- **성과**: MariaDB 이관으로 쿼리 20.6% 속도 향상, Redis 캐시로 P90/P95/P99 70%+ 성능 개선
-- [🔗 프로젝트 상세](https://alabaster-smash-73a.notion.site/1ed0b776e240808d96affa5c5dbc1bec?pvs=74)
-- [💻 GitHub](https://github.com/100-hours-a-week/8-team-kar98-luckeat-be)
-
-### 커뮤니티 사이트
-**Full-Stack Developer** | 2024.12 - 2025.02
-
-사용자들이 자유롭게 글을 작성하고 소통할 수 있는 커뮤니티 플랫폼
-
-- **Tech**: React.js, Express.js, MySQL, AWS, Nginx
-- **기여도**: 기획, 디자인, 프론트엔드, 백엔드, 배포 전 과정 담당 (100%)
-- [🔗 프로젝트 상세](https://alabaster-smash-73a.notion.site/1990b776e2408068a70bc215a7de12d0?pvs=74)
+| Project | Role | Tech | Period | Status | Link |
+|:---|:---:|:---|:---:|:---:|:---:|
+| 이혈테라피 온라인 강의 플랫폼 | Backend & Infra | Spring Boot, PostgreSQL, Redis, Railway | 2026.01 - 진행중 | ✅ | [링크](https://alabaster-smash-73a.notion.site/2f00b776e24080b4af62f507778a6b58?pvs=73) |
+| 럭킷(LuckEat) 🏆 | Backend Developer | Spring Boot, MariaDB, Redis, Docker, AWS | 2025.02 - 2025.05 | ✅ | [링크](https://alabaster-smash-73a.notion.site/1ed0b776e240808d96affa5c5dbc1bec?pvs=74) |
+| 커뮤니티 사이트 | Full-Stack Developer | React.js, Express.js, MySQL, AWS, Nginx | 2024.12 - 2025.02 | ✅ | [링크](https://alabaster-smash-73a.notion.site/1990b776e2408068a70bc215a7de12d0?pvs=74) |
 
 ---
 
-##  Experience
+## Experience
 
-- **컴퓨터학과** | 고려대학교(서울) | 2026.08 (예정)
-- **예비 창업가 발굴 육성 과정** | 고려대 캠퍼스타운 | 2025.05 - 2025.11
-- **카카오테크 부트캠프 클라우드** | 카카오 | 2024.10 - 2025.05
-- **부스트캠프 웹 모바일 9기** | 네이버 커넥트재단 | 2024.07 - 2024.08
-
----
-
-##  Awards
-
-- **학기 최우등생** | 고려대학교 | 2026.01
-- **카카오테크 부트캠프 클라우드 과정 최우수상** | 카카오 | 2025.05
-- **카카오테크 부트캠프 해커톤 본상** | 구름 | 2025.03
-- **학기 최우등생** | 고려대학교 | 2024.08
+| 기간 | 활동 | 기관 |
+|:---|:---|:---|
+| 2026.08 (예정) | 컴퓨터학과 | 고려대학교(서울) |
+| 2025.05 - 2025.11 | 예비 창업가 발굴 육성 과정 | 고려대 캠퍼스타운 |
+| 2024.10 - 2025.05 | 카카오테크 부트캠프 클라우드 | 카카오 |
+| 2024.07 - 2024.08 | 부스트캠프 웹 모바일 9기 | 네이버 커넥트재단 |
 
 ---
 
+## Awards
+
+| 수상명 | 기관 | 날짜 |
+|:---|:---|:---|
+| 학기 최우등생 | 고려대학교 | 2026.01 |
+| 카카오테크 부트캠프 클라우드 과정 최우수상 | 카카오 | 2025.05 |
+| 카카오테크 부트캠프 해커톤 본상 | 구름 | 2025.03 |
+| 학기 최우등생 | 고려대학교 | 2024.08 |
+
+---
 ##  Contact
 
 - **Email**: qwe7105c@korea.ac.kr
