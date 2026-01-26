@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -38,7 +38,7 @@
 | Project | Role | Tech | Period | Status | Link |
 |:---|:---:|:---|:---:|:---:|:---:|
 | 이혈테라피 온라인 강의 플랫폼 | Backend & Infra | Spring Boot, PostgreSQL, Redis, Railway | 2026.01 - 진행중 | ✅ | [링크](https://alabaster-smash-73a.notion.site/2f00b776e24080b4af62f507778a6b58?pvs=73) |
-| 럭킷(LuckEat) 🏆 | Backend Developer | Spring Boot, MariaDB, Redis, Docker, AWS | 2025.02 - 2025.05 | ✅ | [링크](https://alabaster-smash-73a.notion.site/1ed0b776e240808d96affa5c5dbc1bec?pvs=74) |
+| 럭킷(LuckEat) - 최우수상 | Backend Developer | Spring Boot, MariaDB, Redis, Docker, AWS | 2025.02 - 2025.05 | ✅ | [링크](https://alabaster-smash-73a.notion.site/1ed0b776e240808d96affa5c5dbc1bec?pvs=74) |
 | 커뮤니티 사이트 | Full-Stack Developer | React.js, Express.js, MySQL, AWS, Nginx | 2024.12 - 2025.02 | ✅ | [링크](https://alabaster-smash-73a.notion.site/1990b776e2408068a70bc215a7de12d0?pvs=74) |
 
 ---
