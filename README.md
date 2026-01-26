@@ -84,11 +84,6 @@
 
 ---
 
-## Portfolio
-
-- [🌐 포트폴리오 웹사이트](https://www.juhyeon.me)
----
-
 ##  Contact
 
 - **Email**: qwe7105c@korea.ac.kr
