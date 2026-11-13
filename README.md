@@ -58,7 +58,7 @@
 
 | Project | Role | Tech | Period | Link |
 |:---|:---:|:---|:---:|:---:|
-| 정엘 CRM - 상담·전문가 배정 CRM 재구축 (외주) | Full-Stack | Java 21, Spring Boot, PostgreSQL, Flyway, React, TypeScript, Railway | 2026.08 - 진행 중 | - |
+| 정엘 CRM - 상담·전문가 배정 CRM 재구축 (외주) | Full-Stack | Java 21, Spring Boot, PostgreSQL, Flyway, React, TypeScript, Railway | 2026.08 - 진행 중 | [링크](https://alabaster-smash-73a.notion.site/CRM-3fe0b776e240818e8042f3f0b452732e?pvs=74) |
 | 온라인 강의 플랫폼 (외주, 상용 운영) | Backend & Infra | Spring Boot, PostgreSQL, Redis, KCP, Railway | 2026.01 - 2026.03 | [링크](https://alabaster-smash-73a.notion.site/2f00b776e24080b4af62f507778a6b58?pvs=73) |
 | FinSage Analyst - 금융 규제 문서 RAG 챗봇 | Solo | LangChain, OpenAI, FAISS, Flask | 2025.09 - 2025.12 | [GitHub](https://github.com/donet12/finsage-analyst) |
 | 피어링(Peering) - 특수교육 행정 관리 솔루션 | Backend & Infra | Spring Boot, MySQL, JPA, Docker, AWS EC2·ECR, GitHub Actions | 2025.05 - 2025.11 | - |
