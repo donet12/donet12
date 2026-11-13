@@ -20,9 +20,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -59,6 +58,7 @@
 
 | Project | Role | Tech | Period | Link |
 |:---|:---:|:---|:---:|:---:|
+| 정엘 CRM - 상담·전문가 배정 CRM 재구축 (외주) | Full-Stack | Java 21, Spring Boot, PostgreSQL, Flyway, React, TypeScript, Railway | 2026.08 - 진행 중 | - |
 | 온라인 강의 플랫폼 (외주, 상용 운영) | Backend & Infra | Spring Boot, PostgreSQL, Redis, KCP, Railway | 2026.01 - 2026.03 | [링크](https://alabaster-smash-73a.notion.site/2f00b776e24080b4af62f507778a6b58?pvs=73) |
 | FinSage Analyst - 금융 규제 문서 RAG 챗봇 | Solo | LangChain, OpenAI, FAISS, Flask | 2025.09 - 2025.12 | [GitHub](https://github.com/donet12/finsage-analyst) |
 | 피어링(Peering) - 특수교육 행정 관리 솔루션 | Backend & Infra | Spring Boot, MySQL, JPA, Docker, AWS EC2·ECR, GitHub Actions | 2025.05 - 2025.11 | - |
@@ -67,6 +67,7 @@
 | 커뮤니티 사이트 | Full-Stack | React.js, Express.js, MySQL, AWS, Nginx | 2024.12 - 2025.02 | [링크](https://alabaster-smash-73a.notion.site/1990b776e2408068a70bc215a7de12d0?pvs=74) |
 
 ### 주요 포인트
+- **정엘 CRM**: Apps Script·구글 시트 기반 CRM을 Spring Boot + React로 재구축. 기존 기능 대응표(F01~F43)를 만들어 누락 없이 이관하고 건수·담당·금액 대조, 역할을 화면·API 권한의 단일 기준으로 통일, 여러 창구로 흩어진 상담 신청을 CRM으로 통합(중복 접수 방지), 텔레그램 알림 연동
 - **온라인 강의 플랫폼**: 결제 PG(KCP) 연동 직접 구현, 카카오·네이버 OAuth, JWT + Redis 인증, Presigned URL 기반 S3 호환 스토리지, 단계별 과정 구조 DB 설계
 - **FinSage Analyst**: 금융당국·협회 PDF를 Markdown으로 변환하는 전처리 도구 작성, 답변마다 출처 번호와 참고 문서 목록을 표시해 환각 대응, 토큰 단위 스트리밍
 - **피어링**: Spring Security + JWT 기반 RBAC, CLOVA OCR로 시간표 이미지 파싱, GitHub Actions → ECR → EC2 CI/CD 구성
