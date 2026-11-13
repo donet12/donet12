@@ -63,7 +63,7 @@
 | FinSage Analyst - 금융 규제 문서 RAG 챗봇 | Solo | LangChain, OpenAI, FAISS, Flask | 2025.09 - 2025.12 | [GitHub](https://github.com/donet12/finsage-analyst) |
 | 피어링(Peering) - 특수교육 행정 관리 솔루션 | Backend & Infra | Spring Boot, MySQL, JPA, Docker, AWS EC2·ECR, GitHub Actions | 2025.05 - 2025.11 | - |
 | 럭킷(LuckEat) - 최우수상 | Backend Lead | Spring Boot, MariaDB, Redis, Docker, AWS | 2025.02 - 2025.05 | [링크](https://alabaster-smash-73a.notion.site/1ed0b776e240808d96affa5c5dbc1bec?pvs=74) |
-| 포비(Poby) - 해커톤 본상 | Backend | Whisper STT, LLM, ElevenLabs TTS | 2025.05 | - |
+| 포비야 - 해커톤 본상 | Backend | Whisper STT, LLM, ElevenLabs TTS | 2025.05 | - |
 | 커뮤니티 사이트 | Full-Stack | React.js, Express.js, MySQL, AWS, Nginx | 2024.12 - 2025.02 | [링크](https://alabaster-smash-73a.notion.site/1990b776e2408068a70bc215a7de12d0?pvs=74) |
 
 ### 주요 포인트
@@ -72,7 +72,7 @@
 - **FinSage Analyst**: 금융당국·협회 PDF를 Markdown으로 변환하는 전처리 도구 작성, 답변마다 출처 번호와 참고 문서 목록을 표시해 환각 대응, 토큰 단위 스트리밍
 - **피어링**: Spring Security + JWT 기반 RBAC, CLOVA OCR로 시간표 이미지 파싱, GitHub Actions → ECR → EC2 CI/CD 구성
 - **럭킷**: Redis 캐시로 조회 API P90·P95·P99 응답 시간 70% 이상 개선, 예약 재고 오버셀링 방지를 위한 비관적 락, ALB + 오토스케일링 배포 구성, MySQL·MariaDB·PostgreSQL 동일 조건 벤치마크 후 MariaDB 이관
-- **포비**: 전화 공포증 극복용 AI 대화 시뮬레이션 — STT → LLM → TTS 실시간 음성 파이프라인 구현 및 지연 시간 최적화
+- **포비야**: 전화 공포증 극복용 AI 대화 시뮬레이션 — STT → LLM → TTS 실시간 음성 파이프라인 구현 및 지연 시간 최적화
 
 ---
 
